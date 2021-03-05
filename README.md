@@ -26,6 +26,7 @@ npm install && npm start
 ```
 
 
-# API Reference
+# References
 - Weather API: https://www.weatherapi.com
 - City API: https://documenter.getpostman.com/view/1134062/T1LJjU52?version=latest
+- List of Countries: https://gist.github.com/keeguon/2310008
