@@ -16,6 +16,13 @@ Users are able to choose a country and then a city for the chosen country. Weath
 - Sunrise, sunset, moonrise, and moonset
 
 # Installation
+- Download files to a folder of your choosing.
+- Navigate to the folder in terminal. 
+- Install the dependencies and run the code by typing the following:
+
+```
+npm install && npm start
+```
 
 
 # API Reference
