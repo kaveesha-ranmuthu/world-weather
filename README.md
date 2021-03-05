@@ -16,6 +16,7 @@ Users are able to choose a country and then a city for the chosen country. Weath
 - Sunrise, sunset, moonrise, and moonset
 
 # Installation
+You will need to have Node >= version 10.16 and npm >= version 5.6.
 - Download files to a folder of your choosing.
 - Navigate to the folder in terminal using `cd`. 
 - Install the dependencies and run the code by typing the following:
