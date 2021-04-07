@@ -2,7 +2,7 @@ import React, { useState, useContext, useEffect } from "react";
 
 const citiesUrl = "https://countriesnow.space/api/v0.1/countries/cities";
 const weatherUrl =
-  "http://api.weatherapi.com/v1/forecast.json?key=4cb8917c56064111877215447210602&q=";
+  "https://api.weatherapi.com/v1/forecast.json?key=4cb8917c56064111877215447210602&q=";
 const AppContext = React.createContext();
 
 const AppProvider = ({ children }) => {
